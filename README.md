@@ -85,7 +85,7 @@ This was my first full project, so there were mistakes:
 
 ## License
 
-See [LICENSE](LICENSE).
+See [LICENSE](LICENSE.md).
 
 ---
 
