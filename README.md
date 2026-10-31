@@ -29,8 +29,8 @@ One piezo plays one note while the other two play a different one, so you get a 
 
 | Song | Device recording | Original |
 |------|------------------|----------|
-| Stay Schemin' (Rick Ross) | [![Device](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID) | [![Original](https://img.youtube.com/vi/Ygb8BRdl2kI/maxresdefault.jpg)](https://youtu.be/Ygb8BRdl2kI?si=_YeiLvKVq5jGS4ok) |
-| Solo (Future) | [![Device](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/VIDEO_ID) | [![Original](https://img.youtube.com/vi/X2DTROC4JCI/maxresdefault.jpg)](https://youtu.be/X2DTROC4JCI?si=rSgvXdhBM6xabJ5C) |
+| Stay Schemin' (Rick Ross) | https://github.com/user-attachments/assets/a80297bf-8947-4765-a333-8e9d0e4f0b20 | [![Original](https://img.youtube.com/vi/Ygb8BRdl2kI/maxresdefault.jpg)](https://youtu.be/Ygb8BRdl2kI?si=_YeiLvKVq5jGS4ok) |
+| Solo (Future) | https://github.com/user-attachments/assets/b72cde5c-d900-4a74-baa8-f6e2a4725ba9 | [![Original](https://img.youtube.com/vi/X2DTROC4JCI/maxresdefault.jpg)](https://youtu.be/X2DTROC4JCI?si=rSgvXdhBM6xabJ5C) |
 
 ## Hardware
 
